@@ -14,6 +14,7 @@ The scraping process extracted publicly available job listings using keywords su
 | `category`    | Job category or field                  |
 | `work_type`   | Work type (e.g., Full-time, Part-time) |
 | `description` | Full job description                   |
+
 Total records:
 The scraping collected around 475+ job listings across the three countries.
 
